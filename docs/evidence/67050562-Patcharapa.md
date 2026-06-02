@@ -9,7 +9,7 @@ Project Manager / Scrum Lead
 
 ## Evidence link
 - README link: https://github.com/Patcharapa05/github101-practice/blob/main/README.md
-- Evidence file: https://github.com/Patcharapa05/github101-practice/blob/main/docs/evidence/67050562-Patcharapa.md
+- Issue link: https://github.com/Patcharapa05/github101-practice/blob/main/docs/issues/67050562-patcharapa.md
 - Commit link: https://github.com/Patcharapa05/github101-practice/commits/main/
 
 ## Reflection
