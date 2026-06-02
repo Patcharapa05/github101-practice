@@ -16,7 +16,11 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 ---
 
 ## Student Submission Table
-| พัชราภา รุ่งเรือง | Team 05 |Project Manager / Scrum Lead |---|---|
+ให้นิสิตเพิ่มข้อมูลของตนเองในตารางนี้ แล้วใส่ link ไปยังไฟล์ evidence และ issue ของตนเอง
+| Name | Team | Role | Evidence File | Issue Link |
+|------|------|------|------|------|
+| Example Student | Team 00 | Demo | example evidence | - |
+| พัชราภา รุ่งเรือง | Team 05 | Project Manager / Scrum Lead | pending | pending |
 
 ---
 
