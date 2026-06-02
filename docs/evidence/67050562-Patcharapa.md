@@ -4,8 +4,8 @@
 ฉันได้แก้ไขไฟล์ README เพิ่มข้อมูลของตนเอง สร้างไฟล์ Evidence สร้าง GitHub Issue และ Commit งานที่ทำลงบน GitHub
 
 ## My role in project
-Team: work
-Project Manager / Scrum Lead
+- Team: work
+- Project Manager / Scrum Lead
 
 ## Evidence link
 - README link: https://github.com/Patcharapa05/github101-practice/blob/main/README.md
