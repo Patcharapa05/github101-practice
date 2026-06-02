@@ -19,7 +19,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 ให้นิสิตเพิ่มข้อมูลของตนเองในตารางนี้ แล้วใส่ link ไปยังไฟล์ evidence และ issue ของตนเอง
 | Name | Team | Role | Evidence File | Issue Link |
 |------|------|------|------|------|
-| พัชราภา รุ่งเรือง | Team 05 | Project Manager / Scrum Lead | - | - |
+| พัชราภา รุ่งเรือง | Team 05 | PM | https://github.com/Patcharapa05/github101-practice/blob/main/docs/evidence/67050562-Patcharapa.md | - |
 
 ---
 
