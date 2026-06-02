@@ -13,6 +13,6 @@ Project Manager / Scrum Lead
 - Commit link: https://github.com/Patcharapa05/github101-practice/commits/main/
 
 ## Reflection
-วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: ได้ฝึกใช้งาน GitHub ทั้งการ Fork Repository การแก้ไขไฟล์ และการสร้าง Issue
-ฉันติดปัญหาอะไร: 
-ฉันแก้ปัญหาอย่างไร:
+- วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: ได้ฝึกใช้งาน GitHub ทั้งการ Fork Repository การแก้ไขไฟล์ และการสร้าง Issue
+- ฉันติดปัญหาอะไร: หาโฟลเดอร์และไฟล์ที่ต้องแก้ไขภายใน Repository ไม่เจอในช่วงแรก
+- ฉันแก้ปัญหาอย่างไร: สำรวจโครงสร้างของ Repository และอ่านคำแนะนำใน README จนสามารถค้นหาไฟล์ที่ต้องแก้ไขได้
