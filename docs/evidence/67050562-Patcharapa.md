@@ -7,7 +7,7 @@
 Project Manager / Scrum Lead
 
 ## Evidence link
-ใส่ link หลักฐาน หรืออธิบายว่างานของตนเองอยู่ตรงไหน
+
 
 ## Reflection
 วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: ได้ฝึกใช้งาน GitHub ทั้งการ Fork Repository การแก้ไขไฟล์ และการสร้าง Issue
